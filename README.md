@@ -1,5 +1,4 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podchez&layout=compact&hide_border=true&theme=react" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Anurag's github stats" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podchez&layout=compact&count_private=true&theme=react" /></a>
 
 <!---
 - 👋 Hi, I’m @podchez
