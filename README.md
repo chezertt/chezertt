@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react)](https://github.com/podchez)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react)](https://github.com/podchez)
 
 <!---
 - 👋 Hi, I’m @podchez
