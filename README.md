@@ -1,5 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Anurag's github stats" />
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react)](https://github.com/podchez)
 
 <!---
