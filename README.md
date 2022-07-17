@@ -1,4 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Anurag's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Anurag's github stats" />
 
 <!---
 - 👋 Hi, I’m @podchez
