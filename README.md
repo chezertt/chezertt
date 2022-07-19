@@ -1,5 +1,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react)](https://github.com/podchez)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podchez&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=react)](https://github.com/podchez)
+
 <!---
 - 👋 Hi, I’m @podchez
 - 👀 I’m interested in ...
