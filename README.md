@@ -1,14 +1,5 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=podchez&show_icons=true&count_private=true&hide_border=true&theme=react)](https://github.com/podchez)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podchez&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=react)](https://github.com/podchez)
-
-<!---
-- 👋 Hi, I’m @podchez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-podchez/podchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=podchez&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podchez&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
